@@ -1,0 +1,16 @@
+{
+    "sk": {
+        "menu": {
+            "home": "Domov",
+            "portfolio": "Portfólio",
+            "about": "O mne"
+        }
+    },
+    "en": {
+        "menu": {
+            "home": "Home",
+            "portfolio": "Portfolio",
+            "about": "About me"
+        }
+    }
+}

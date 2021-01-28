@@ -2,8 +2,8 @@
     "langs": ["sk", "en"],
     "menu": {
         "home": {
-            "sk": "Domov",
-            "en": "Home"
+            "sk": "ZD",
+            "en": "ZD"
         },
         "portfolio": {
             "sk": "Portfólio",

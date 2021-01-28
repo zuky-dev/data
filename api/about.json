@@ -1,8 +1,58 @@
 {
-    "sk": {
-        "about": ""
+    "about": {
+        "text": {
+            "sk": "",
+            "en": ""
+        }
     },
-    "en": {
-        "about": ""
-    }
+    "tech": {
+        "code": [
+            {
+                "name": "VueJS",
+                "icon": "devicon-vuejs-plain"
+            },
+            {
+                "name": "Laravel",
+                "icon": "devicon-laravel-plain"
+            },
+            {
+                "name": "Bootstrap",
+                "icon": "devicon-bootstrap-plain"
+            },
+            {
+                "name": "JQuery",
+                "icon": "devicon-jquery-plain"
+            }
+        ],
+        "design": [
+            {
+                "name": "Illustrator",
+                "icon": "devicon-illustrator-plain"
+            },
+            {
+                "name": "Photoshop",
+                "icon": "devicon-photoshop-plain"
+            }
+        ]
+    },
+    "contact":[
+        {
+            "name": "Github",
+            "popup": "zukydesigns",
+            "icon": "fab fa-github",
+            "link": "https://github.com/zukydesigns"
+        },
+        {
+            "name": "E-Mail",
+            "popup": "zukydesign@gmail.com",
+            "icon": "fas fa-envelope",
+            "link": "mailto:zukydesign@gmail.com"
+        },
+        {
+            "name": "LinkedIn",
+            "popup": "Lukáš Odler",
+            "icon": "fab fa-linkedin",
+            "link": "https://www.linkedin.com/in/luk%C3%A1%C5%A1-odler/"
+        }
+    ]
 }

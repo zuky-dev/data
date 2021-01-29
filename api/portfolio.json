@@ -5,9 +5,15 @@
             "",
             ""
         ],
-        "sk-title": "",
-        "sk-about": "",
-        "en-title": "",
-        "en-about": ""
+        "tags": [],
+        "title": {
+            "sk": "",
+            "en": ""
+        },
+        "about": {
+            "sk": "",
+            "en": ""
+        },
+        "link": null
     }
 ]

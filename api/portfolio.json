@@ -1,87 +1,90 @@
-[
-    {
-        "heroImg": "/data/portfolio/nyan/hero.png",
-        "gallery": [
-            "",
-            ""
-        ],
-        "tags": [],
-        "title": {
-            "sk": "Nyan Cat",
-            "en": "Nyan Cat"
+{
+    "tags": [],
+    "portfolio": [
+        {
+            "heroImg": "/data/portfolio/nyan/hero.png",
+            "gallery": [
+                "",
+                ""
+            ],
+            "tags": [],
+            "title": {
+                "sk": "Nyan Cat",
+                "en": "Nyan Cat"
+            },
+            "about": {
+                "sk": "",
+                "en": ""
+            },
+            "link": null
         },
-        "about": {
-            "sk": "",
-            "en": ""
+        {
+            "heroImg": "/data/portfolio/webte/hero.png",
+            "gallery": [
+                "",
+                ""
+            ],
+            "tags": [],
+            "title": {
+                "sk": "Webte Wars",
+                "en": "Webte Wars"
+            },
+            "about": {
+                "sk": "",
+                "en": ""
+            },
+            "link": null
         },
-        "link": null
-    },
-    {
-        "heroImg": "/data/portfolio/webte/hero.png",
-        "gallery": [
-            "",
-            ""
-        ],
-        "tags": [],
-        "title": {
-            "sk": "Webte Wars",
-            "en": "Webte Wars"
+        {
+            "heroImg": "/data/portfolio/tartarus/hero.png",
+            "gallery": [
+                "",
+                ""
+            ],
+            "tags": [],
+            "title": {
+                "sk": "Fei Tartarus",
+                "en": "Fei Tartarus"
+            },
+            "about": {
+                "sk": "",
+                "en": ""
+            },
+            "link": null
         },
-        "about": {
-            "sk": "",
-            "en": ""
+        {
+            "heroImg": "/data/portfolio/mendelssohn/hero.png",
+            "gallery": [
+                "",
+                ""
+            ],
+            "tags": [],
+            "title": {
+                "sk": "Menselssohn",
+                "en": "Menselssohn"
+            },
+            "about": {
+                "sk": "",
+                "en": ""
+            },
+            "link": null
         },
-        "link": null
-    },
-    {
-        "heroImg": "/data/portfolio/tartarus/hero.png",
-        "gallery": [
-            "",
-            ""
-        ],
-        "tags": [],
-        "title": {
-            "sk": "Fei Tartarus",
-            "en": "Fei Tartarus"
-        },
-        "about": {
-            "sk": "",
-            "en": ""
-        },
-        "link": null
-    },
-    {
-        "heroImg": "/data/portfolio/mendelssohn/hero.png",
-        "gallery": [
-            "",
-            ""
-        ],
-        "tags": [],
-        "title": {
-            "sk": "Menselssohn",
-            "en": "Menselssohn"
-        },
-        "about": {
-            "sk": "",
-            "en": ""
-        },
-        "link": null
-    },
-    {
-        "heroImg": "/data/portfolio/ryong/hero.png",
-        "gallery": [
-            "",
-            ""
-        ],
-        "tags": [],
-        "title": {
-            "sk": "Ryong",
-            "en": "Ryong"
-        },
-        "about": {
-            "sk": "",
-            "en": ""
-        },
-        "link": null
-    }
-]
+        {
+            "heroImg": "/data/portfolio/ryong/hero.png",
+            "gallery": [
+                "",
+                ""
+            ],
+            "tags": [],
+            "title": {
+                "sk": "Ryong",
+                "en": "Ryong"
+            },
+            "about": {
+                "sk": "",
+                "en": ""
+            },
+            "link": null
+        }
+    ]
+}

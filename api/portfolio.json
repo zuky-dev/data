@@ -1,5 +1,9 @@
 {
     "tags": [],
+    "more":{
+        "sk": "Viac",
+        "en": "More"
+    },
     "portfolio": [
         {
             "heroImg": "/data/portfolio/nyan/hero.png",

@@ -1,5 +1,18 @@
 {
-    "tags": [],
+    "tags": {
+        "challenge": {
+            "sk": "výzva",
+            "en": "challenge"
+        },
+        "fun": {
+            "sk": "zábava",
+            "en": "fun"
+        },
+        "website": {
+            "sk": "webstránka",
+            "en": "website"
+        }
+    },
     "more":{
         "sk": "Viac",
         "en": "More"
@@ -12,7 +25,7 @@
                 "",
                 ""
             ],
-            "tags": [],
+            "tags": [ "fun", "website", "challenge" ],
             "title": {
                 "sk": "Nyan Cat",
                 "en": "Nyan Cat"
@@ -21,7 +34,7 @@
                 "sk": "",
                 "en": ""
             },
-            "link": null
+            "link": "https://zukydesigns.github.io/nyan-cat"
         },
         {
             "id": "webte-wars",

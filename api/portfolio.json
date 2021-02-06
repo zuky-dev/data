@@ -6,6 +6,7 @@
     },
     "portfolio": [
         {
+            "id": "nyan-cat",
             "heroImg": "/data/portfolio/nyan/hero.png",
             "gallery": [
                 "",
@@ -23,6 +24,7 @@
             "link": null
         },
         {
+            "id": "webte-wars",
             "heroImg": "/data/portfolio/webte/hero.png",
             "gallery": [
                 "",
@@ -40,6 +42,7 @@
             "link": null
         },
         {
+            "id": "fei-tartarus",
             "heroImg": "/data/portfolio/tartarus/hero.png",
             "gallery": [
                 "",
@@ -57,6 +60,7 @@
             "link": null
         },
         {
+            "id": "mendelssohn",
             "heroImg": "/data/portfolio/mendelssohn/hero.png",
             "gallery": [
                 "",
@@ -74,6 +78,7 @@
             "link": null
         },
         {
+            "id": "ryong",
             "heroImg": "/data/portfolio/ryong/hero.png",
             "gallery": [
                 "",

@@ -17,6 +17,10 @@
         "sk": "Viac",
         "en": "More"
     },
+    "back":{
+        "sk": "Späť",
+        "en": "Go back"
+    },
     "portfolio": [
         {
             "id": "nyan-cat",

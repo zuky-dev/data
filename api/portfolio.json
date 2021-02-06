@@ -17,6 +17,10 @@
         "sk": "Viac",
         "en": "More"
     },
+    "display":{
+        "sk": "Zobraziť",
+        "en": "Display"
+    },
     "back":{
         "sk": "Späť",
         "en": "Go back"

@@ -30,8 +30,7 @@
             "id": "nyan-cat",
             "heroImg": "/data/portfolio/nyan/hero.png",
             "gallery": [
-                "",
-                ""
+                "/data/portfolio/nyan/app.png"
             ],
             "tags": [ "fun", "website", "challenge" ],
             "title": {

@@ -82,8 +82,8 @@
                 "en": "Fei Tartarus"
             },
             "about": {
-                "sk": "",
-                "en": ""
+                "sk": "<p>Webová stránka pre tím účastniaci sa predmetu 'Tímový projekt' FEI STU pre I-API. Stránka má charakter prezentačnej stránky ale jej zámer je v zobrazovaní postupu prác projektu.</p><p>Ťažiskovým nápadom bolo využitie ParticlesJs a následne prehľadného a jednoduchého zobrazovania informácií.</p>",
+                "en": "<p>Website for a team belonging to the 'Team project' course of the FEI STU Enginner computer sience studies. It has the aspects of a portfolio page but its main point is in displaying the work progress of the team.</p><p>Main point of design was the usage of ParticlesJS with a pretty simple display of project details.</p>"
             },
             "link": "https://fei-tartarus.github.io"
         },

@@ -8,6 +8,10 @@
             "sk": "zábava",
             "en": "fun"
         },
+        "school": {
+            "sk": "školskýProjekt",
+            "en": "schoolProject"
+        },
         "website": {
             "sk": "webstránka",
             "en": "website"
@@ -65,10 +69,14 @@
             "id": "fei-tartarus",
             "heroImg": "/data/portfolio/tartarus/hero.png",
             "gallery": [
-                "",
-                ""
+                "/data/portfolio/tartarus/home.png",
+                "/data/portfolio/tartarus/team.png",
+                "/data/portfolio/tartarus/project.png",
+                "/data/portfolio/tartarus/error.png"
             ],
-            "tags": [],
+            "tags": [
+                "school", "website"
+            ],
             "title": {
                 "sk": "Fei Tartarus",
                 "en": "Fei Tartarus"
@@ -77,7 +85,7 @@
                 "sk": "",
                 "en": ""
             },
-            "link": null
+            "link": "https://fei-tartarus.github.io"
         },
         {
             "id": "mendelssohn",
